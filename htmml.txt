@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World - GitHub Pages</title>
+    <link rel="stylesheet" href="style.css"> <!-- Link ke file CSS -->
+</head>
+<body>
+    <header>
+        <h1>Hello, World!</h1>
+        <p>Welcome to my first GitHub Pages site!</p>
+    </header>
+    
+    <section>
+        <h2>About This Page</h2>
+        <p>This is a simple webpage hosted on GitHub Pages to say "Hello World".</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Your Name</p>
+    </footer>
+</body>
+</html>
